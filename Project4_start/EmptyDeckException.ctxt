@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=EmptyDeckException
+comment0.text=\r\n\ A\ specific\ subclass\ of\ Exception\ indicating\ that\ an\ attempt\ was\ made\ to\r\n\ draw\ a\ card\ from\ a\ Deck\ and\ no\ such\ card\ could\ be\ drawn\ despite\ attempts\r\n\ to\ remix.\r\n
+numComments=1
