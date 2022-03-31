@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lab9
+comment0.text=\r\n\ This\ is\ the\ starting\ file\ for\ Lab\ 9.\r\n\ \r\n\ @author\ Dr.\ Zeitz\ \r\n\ @version\ CPSC\ 220\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ method\ tests\ all\ four\ method\ definitions.\r\n\ \r\n\ @param\ args\ A\ string\ array\ of\ input\ arguments\r\n
+comment2.params=ans1
+comment2.target=java.lang.String\ evenOrOdd(int)
+comment2.text=\r\n\ @param\ checks\ to\ see\ if\ ans1\ is\ odd\ or\ even\r\n\ @return\ odd\ or\ even\r\n
+comment3.params=a\ b
+comment3.target=boolean\ endOther(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ @param\ takes\ in\ end1,\ end2,\ end3\ and\ end4\r\n\ @return\ true\ or\ false\r\n
+comment4.params=a\ b\ c
+comment4.target=int\ luckySum(int,\ int,\ int)
+comment4.text=\r\n\ @param\ takes\ in\ sum1,\ sum2,\ and\ sum3\ and\ adds\ them\ together\ except\ if\ there\ is\ a\ 13\r\n\ @return\ the\ sum\ of\ the\ numbers\r\n
+comment5.params=a\ b\ c
+comment5.target=double\ luckySum(double,\ double,\ double)
+comment5.text=\r\n\ @param\ takes\ in\ sum4\ and\ sum5\ and\ does\ the\ same\ thing\ as\ the\ other\ luckySum,\ but\ with\ doubles\r\n\ @return\ the\ sum\ of\ the\ numbers\r\n
+numComments=6
